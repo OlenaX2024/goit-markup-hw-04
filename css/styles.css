@@ -283,6 +283,7 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
+  margin-bottom: 8px;
 }
 .team-link-list {
   display: flex;
