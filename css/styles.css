@@ -136,6 +136,7 @@ ol {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  margin: 0 auto;
 }
 
 .button-title {
@@ -173,7 +174,6 @@ ol {
 .section-description {
   padding-top: 120px;
   padding-bottom: 120px;
-  margin: 0 auto;
 }
 .container-description-icon {
   width: 264px;
